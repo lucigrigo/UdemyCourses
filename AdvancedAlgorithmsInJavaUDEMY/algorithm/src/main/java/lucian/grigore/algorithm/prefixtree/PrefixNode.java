@@ -7,7 +7,7 @@ public class PrefixNode {
 
     private char c;
     int id;
-    private Map<Character, PrefixNode> children;
+    Map<Character, PrefixNode> children;
     boolean isWord = false;
 
     PrefixNode() {
