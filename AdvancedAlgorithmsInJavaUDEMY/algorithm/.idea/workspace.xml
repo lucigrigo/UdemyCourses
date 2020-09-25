@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="239132fb-e442-4800-83ee-f84c81cb0cba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lucian/grigore/algorithm/suffixtrie/SuffixTrie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lucian/grigore/algorithm/suffixtrie/SuffixTrie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lucian/grigore/algorithm/suffixtrie/TrieNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lucian/grigore/algorithm/suffixtrie/TrieNode.java" afterDir="false" />
-    </list>
+    <list default="true" id="239132fb-e442-4800-83ee-f84c81cb0cba" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/lucian/grigore/algorithm/suffixtrie/SuffixTrie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="140">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#252#253#0" expanded="true" />
                 <element signature="e#273#274#0" expanded="true" />
@@ -374,7 +370,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -459,8 +455,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lucian/grigore/algorithm/suffixtrie/SuffixTrie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#252#253#0" expanded="true" />
             <element signature="e#273#274#0" expanded="true" />
