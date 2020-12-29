@@ -6,3 +6,7 @@ Personal repository containing code and documentation from Udemy courses.
 - Machine Learning
 - Deep Learning
 - R
+
+## Frameworks used
+- TensorFlow (Python)
+- Sci:Kit Learn (Python)
